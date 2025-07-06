@@ -18,11 +18,20 @@ h1 {
     width: 400px;
     background-color: #fff;
     text-align: center;
+    color: brown;
     justify-content: center;
     padding: 0px;
-    margin-left: 200px;
-    background-image: url();
+    margin-left: 300px;
+    background-image: url("jingwei-ke-oWoBnXh1a_M-unsplash.jpg");
+    background-size: cover;
+    padding-top: 20px;
 }
-span{
+
+span {
     background-color: gray;
+}
+
+img {
+    height: 200px;
+    width: 200px;
 }
