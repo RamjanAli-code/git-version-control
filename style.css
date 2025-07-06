@@ -1,0 +1,25 @@
+* {
+    background-color: red;
+}
+
+h1 {
+    background-color: white;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    color: aqua;
+    padding: 20px;
+    margin: 40px;
+    border: 5px solid black;
+}
+
+.box {
+    height: 300px;
+    width: 400px;
+    background-color: #fff;
+    text-align: center;
+    justify-content: center;
+    padding: 0px;
+    margin-left: 200px;
+    background-image: url();
+}
